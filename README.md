@@ -8,7 +8,7 @@ Let's extract the info to help a telecom operator target its advertising budget
 Description of the project:
 
 We work as analysts for the telecommunications operator Megaline. The company offers its 
-customers two subscription rates: Surf and Ultimate. 
+customers two subscription rates: 'Surf' and 'Ultimate'. 
 The commercial department wants to know which of the plans generates more income for 
 adjust the advertising budget.
 
